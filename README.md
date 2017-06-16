@@ -1,2 +1,2 @@
-# rjda.githup.ayo
+# rjda.githup.io
 kişisel site
